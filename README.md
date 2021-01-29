@@ -7,4 +7,4 @@ Also, the project includes preprocessing the data, performing exploratory data a
 
 In case unable to view file in github itself, use 
 
-https://nbviewer.jupyter.org/github/RitwikBijalwan/Heart-Disease-Prediction/blob/main/heart_disease_prediction.ipynb
+https://nbviewer.jupyter.org/github/RitwikBijalwan/Heart-Disease-Prediction/blob/main/heart_disease_prediction.ipynb?flush_cache=true
